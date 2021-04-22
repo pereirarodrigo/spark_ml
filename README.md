@@ -1,3 +1,3 @@
 ## Spark ML
 
-PySpark is a powerful tool not only for distributed computing, but also for applying machine learning models to distributed datasets. This repository contains a Jupyter notebook where a decision tree classifier was applied to a cleaned version of the hotel booking demand dataset, made by me, which is available <a href="https://www.kaggle.com/rpereiracruz/cleaned-hotel-bookings">here</a>.
+PySpark is a powerful tool not only for distributed computing, but also for applying machine learning models to distributed datasets. This repository contains a Jupyter notebook where a decision tree classifier was applied to a cleaned version of the hotel booking demand dataset, made by me, which is available <a href="https://www.kaggle.com/rpereiracruz/cleaned-hotel-bookings">here</a>. Just like in my <a href="https://github.com/pereirarodrigo/hotel_analysis">hotel booking demand</a> analysis, the Kaggle API was used to automatically download the dataset.
